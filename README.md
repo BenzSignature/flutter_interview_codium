@@ -1,6 +1,9 @@
 # interview_codium
 
-A new Flutter project.
+flutter_interview_codium
+
+Please flutter pub get before flutter run
+
 
 ## Getting Started
 
