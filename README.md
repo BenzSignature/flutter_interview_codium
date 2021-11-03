@@ -2,7 +2,14 @@
 
 flutter_interview_codium
 
-Please flutter pub get before flutter run
+solve 1-4 in folder test _1_4 and solve 5-7 in folder test_5_7
+
+How To test
+use command flutter pub get in termenal in folder flutter_interview_codium and use flutter run command or press F5 to run the project.
+
+I look forward to working with Codium.
+
+best regards
 
 
 ## Getting Started
